@@ -564,6 +564,7 @@ section > .section-description {
     background-color: #333;
     text-align: center;
     color: #ccc;
+    height: 500px;
 }
 
 /* body section:last-of-type {
