@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1920"
+   height="100"
+   viewBox="0 0 1920 100"
+   fill="none"
+   version="1.1"
+   id="svg152"
+   sodipodi:docname="blue_wave.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview154"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.7328125"
+     inkscape:cx="960"
+     inkscape:cy="49.808102"
+     inkscape:window-width="1920"
+     inkscape:window-height="1122"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="blue_wave" />
+  <g
+     id="blue_wave"
+     clip-path="url(#clip0_2:2)">
+    <path
+       id="waveBack"
+       d="M1079.5 41C1296.91 4.42653 1764.5 11.1666 1920 49.5V100H0V25C303.5 80.1666 812 86 1079.5 41Z"
+       fill="#97D6FF"
+       style="fill:#7178d0;fill-opacity:1" />
+    <path
+       id="waveFront"
+       d="M978.5 48C457 -15 241 -8.7142e-05 0 -9.04799e-05V100H1920V-8.66652e-05C1600.5 80.4999 1473.08 107.748 978.5 48Z"
+       fill="#0E9FFF"
+       style="fill:#424fff;fill-opacity:1" />
+  </g>
+  <defs
+     id="defs150">
+    <clipPath
+       id="clip0_2:2">
+      <rect
+         width="1920"
+         height="100"
+         fill="white"
+         id="rect147" />
+    </clipPath>
+  </defs>
+</svg>
